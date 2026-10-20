@@ -1,0 +1,102 @@
+[
+  {
+    "file": "body-parts/body-ankle.png",
+    "sha256": "ef7d0a28e4665e076d59bfd56e1e5414f57526330d04c54201436ab634c780d7",
+    "width": 1024,
+    "height": 1536,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  },
+  {
+    "file": "body-parts/body-back-male.png",
+    "sha256": "dc0b498ecacee3c89849415cc597a21a4027f29c1c7e5295735baeae4bd3bc8c",
+    "width": 1024,
+    "height": 1536,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  },
+  {
+    "file": "body-parts/body-back.png",
+    "sha256": "9cddbeda98ab7c9ebf10fdfc70f68cd1bbb2c6a27afa53c420db3b6530cc201e",
+    "width": 1023,
+    "height": 1537,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  },
+  {
+    "file": "body-parts/body-calf.png",
+    "sha256": "c5432019e48d6adc1fc8f212f93b76cf27557ed4a015bc1f3302017774cd7e90",
+    "width": 1024,
+    "height": 1536,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  },
+  {
+    "file": "body-parts/body-forearm.png",
+    "sha256": "7a512924e60cdd4ba51c0bd9236dbd5f6c3af45f5f05b95252c188b8a658d8de",
+    "width": 1024,
+    "height": 1536,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  },
+  {
+    "file": "body-parts/body-hand.png",
+    "sha256": "434ee839dbf450395c0846f683c3f7b23bf7a6f34ec6b1bd619e8e46a378ef56",
+    "width": 1024,
+    "height": 1536,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  },
+  {
+    "file": "body-parts/body-shoulder.png",
+    "sha256": "4c5e024da1f3120bba377de583f1c682241d8d3dc2d5abc7bc759f2b7be07d16",
+    "width": 1024,
+    "height": 1536,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  },
+  {
+    "file": "body-parts/body-thigh.png",
+    "sha256": "30f0069923f08a047ce8f5f232d167d13b35a63f66af6eff716d37dfd5a87b88",
+    "width": 1023,
+    "height": 1537,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  },
+  {
+    "file": "body-parts/body-upper-arm.png",
+    "sha256": "a7b1c3c50d3dd4b9a6b477b1a866d298d154dc1d56e4b4fa893cfa636c6c7706",
+    "width": 1024,
+    "height": 1536,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  },
+  {
+    "file": "body-parts/body-wrist.png",
+    "sha256": "0aec2c6769da200b1bef7a985d7923610f0f31ab9ffdf01ce903555863f02b35",
+    "width": 1024,
+    "height": 1536,
+    "source": "Stencil My Tattoo project-provided demo body asset",
+    "permission": "Owner explicitly authorized public inclusion on 2026-10-20",
+    "license": "CC-BY-4.0",
+    "original_generation_provider": "Not recorded per file; project has an AI asset generation guide"
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-20",
+  "reference": "https://stencilmytattoo.com/try-on-tattoo",
+  "renderer": "Canvas 2D; hosted reference uses Fabric",
+  "notes": [
+    "Cases use the same real uploaded PNG and unmodified default body-preset parameters.",
+    "Identical background pixels dominate whole-frame similarity. These are not tattoo quality scores.",
+    "Differences around line edges remain due to the different rasterization paths."
+  ],
+  "results": [
+    {
+      "case": "white-rose-back",
+      "size": [1200, 1800],
+      "hosted": "stencil-my-tattoo-try-on-1792488293364.png",
+      "demo": "tattoo-try-on-1792488326317.png",
+      "hosted_sha256": "d49a2dd2f944187c363511b7143c13ebfc66c0256f2e1a1f858d09efb815f02d",
+      "demo_sha256": "43b181cfeaaac8e08e1f103072196d1e5c9f58eaff083ee6d5050f8f0f939bdd",
+      "whole_frame_mean_abs_rgba": [
+        0.06719675925925926, 0.05331435185185185, 0.042979166666666666, 0.0
+      ],
+      "equal_pixel_fraction": 0.9947643518518519,
+      "difference_bbox": [526, 452, 674, 848],
+      "difference_bbox_mean_abs_rgba": [
+        2.476539039039039, 1.9649024024024024, 1.5839987714987716, 0.0
+      ]
+    },
+    {
+      "case": "white-rose-upper-arm",
+      "size": [1200, 1800],
+      "hosted": "stencil-my-tattoo-try-on-1792488408099.png",
+      "demo": "tattoo-try-on-1792488408681.png",
+      "hosted_sha256": "dff58db5b6a831df1c02c3863008f7eeb13a55532f68a235bc6198b3270ec98a",
+      "demo_sha256": "8acf032bbbed9014a5454e7ab6dc296cb2e56ef45af8001f44a2be601d0043cc",
+      "whole_frame_mean_abs_rgba": [
+        0.04872222222222222, 0.0367, 0.02879212962962963, 0.0
+      ],
+      "equal_pixel_fraction": 0.9971416666666667,
+      "difference_bbox": [411, 620, 519, 899],
+      "difference_bbox_mean_abs_rgba": [
+        3.4926324173636, 2.630824372759857, 2.0639519447763175, 0.0
+      ]
+    },
+    {
+      "case": "color-rose-upper-arm",
+      "size": [1200, 1800],
+      "hosted": "stencil-my-tattoo-try-on-1792488583532.png",
+      "demo": "tattoo-try-on-1792488554459.png",
+      "hosted_sha256": "7d905ba02c4fc6283a4091f78ac276b4ea14c167c0b75c5dc8bed242637c6034",
+      "demo_sha256": "e9cdfdca3d8bd16296f8ee846a60453114566815a9fd53ddbbdbb377920f8cba",
+      "whole_frame_mean_abs_rgba": [
+        0.04819351851851852, 0.03557962962962963, 0.027912962962962962, 0.0
+      ],
+      "equal_pixel_fraction": 0.9969226851851852,
+      "difference_bbox": [411, 620, 519, 899],
+      "difference_bbox_mean_abs_rgba": [
+        3.454732510288066, 2.550511084561264, 2.0009292446568434, 0.0
+      ]
+    },
+    {
+      "case": "transparent-rose-upper-arm",
+      "size": [1200, 1800],
+      "hosted": "stencil-my-tattoo-try-on-1792488608682.png",
+      "demo": "tattoo-try-on-1792488609165.png",
+      "hosted_sha256": "dff58db5b6a831df1c02c3863008f7eeb13a55532f68a235bc6198b3270ec98a",
+      "demo_sha256": "8acf032bbbed9014a5454e7ab6dc296cb2e56ef45af8001f44a2be601d0043cc",
+      "whole_frame_mean_abs_rgba": [
+        0.04872222222222222, 0.0367, 0.02879212962962963, 0.0
+      ],
+      "equal_pixel_fraction": 0.9971416666666667,
+      "difference_bbox": [411, 620, 519, 899],
+      "difference_bbox_mean_abs_rgba": [
+        3.4926324173636, 2.630824372759857, 2.0639519447763175, 0.0
+      ]
+    }
+  ]
+}
